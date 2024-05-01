@@ -1,0 +1,15 @@
+C:\Users\Robert\Desktop\codegolf\TestInternship\TestInternship\bin\Debug\net8.0\TestInternship.exe
+C:\Users\Robert\Desktop\codegolf\TestInternship\TestInternship\bin\Debug\net8.0\TestInternship.deps.json
+C:\Users\Robert\Desktop\codegolf\TestInternship\TestInternship\bin\Debug\net8.0\TestInternship.runtimeconfig.json
+C:\Users\Robert\Desktop\codegolf\TestInternship\TestInternship\bin\Debug\net8.0\TestInternship.dll
+C:\Users\Robert\Desktop\codegolf\TestInternship\TestInternship\bin\Debug\net8.0\TestInternship.pdb
+C:\Users\Robert\Desktop\codegolf\TestInternship\TestInternship\obj\Debug\net8.0\TestInternship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\Desktop\codegolf\TestInternship\TestInternship\obj\Debug\net8.0\TestInternship.AssemblyInfoInputs.cache
+C:\Users\Robert\Desktop\codegolf\TestInternship\TestInternship\obj\Debug\net8.0\TestInternship.AssemblyInfo.cs
+C:\Users\Robert\Desktop\codegolf\TestInternship\TestInternship\obj\Debug\net8.0\TestInternship.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\codegolf\TestInternship\TestInternship\obj\Debug\net8.0\TestInternship.dll
+C:\Users\Robert\Desktop\codegolf\TestInternship\TestInternship\obj\Debug\net8.0\refint\TestInternship.dll
+C:\Users\Robert\Desktop\codegolf\TestInternship\TestInternship\obj\Debug\net8.0\TestInternship.pdb
+C:\Users\Robert\Desktop\codegolf\TestInternship\TestInternship\obj\Debug\net8.0\TestInternship.genruntimeconfig.cache
+C:\Users\Robert\Desktop\codegolf\TestInternship\TestInternship\obj\Debug\net8.0\ref\TestInternship.dll
+C:\Users\Robert\Desktop\codegolf\TestInternship\TestInternship\bin\Debug\net8.0\input.txt
